@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I am a frontend developer with 6+ years of experience in angular and wordpress developments.
+- Continuous learner, top tech enthusiast.
+- Looking for opportunities in frontend development and fullstack develpoment.
+- Available for collabarations in opensourse project based javascript and typescript.
+
+- Reach me by https://www.linkedin.com/in/anujithrb/
+
 <!--
 **anujithrb/anujithrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
